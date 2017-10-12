@@ -1,0 +1,32 @@
+.navbar-default{
+    border-color: #4da2ec !important;
+    background-color: #C8DEEF;
+}
+
+.navbar-nav a{
+    color:#2D58be !important;
+}
+
+.navbar-brand img{
+    max-height:100%;
+}
+
+.main_body{
+    margin-top:150px;
+}
+
+.checked
+{
+    text-decoration:line-through;
+    color:red;
+}
+
+
+.groceries li a{
+    cursor: pointer;
+}
+
+
+.groceries li span{
+    cursor: pointer;
+}
