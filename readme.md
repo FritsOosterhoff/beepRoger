@@ -9,9 +9,9 @@
 
 ## About this project
 This assignment needed the following elements:
-Show a list of items;
-Edit an item
-Toggle a selected item
-Remove an item
-Save any changes to the list without the need to refresh the page.
+* Show a list of items;
+* Edit an item
+* Toggle a selected item
+* Remove an item
+* Save any changes to the list without the need to refresh the page.
 
